@@ -1,0 +1,35 @@
+.header a {
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+    font-size: large;
+}
+
+.header {
+    background-color: rgb(87, 87, 228);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-logo img {
+    height: 40px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+.link-alignment {
+    padding: 10px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+}

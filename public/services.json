@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "cataract",
+        "description": "A cataract is a clouding of the normally clear lens of your eye. For people who have cataracts, seeing through cloudy lenses is a bit like looking through a frosty or fogged-up window. Clouded vision caused by cataracts can make it more difficult to read, drive a car (especially at night) or see the expression on a friend's face.",
+        "img": "./Images/1. catarect.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Cornea",
+        "description": "The cornea is the eye’s outermost layer. It is the clear, dome­ shaped surface that covers the front of the eye. It plays an important role in focusing your vision.",
+        "img": "./Images/2. cornia.png"
+    },
+    {
+        "id": "3",
+        "name": "Glaucoma",
+        "description": "Glaucoma is a group of diseases that damage the eye’s optic nerve and can result in vision loss and blindness. However, with early detection and treatment, you can often protect your eyes against serious vision loss.",
+        "img": "./Images/3. glaucoma.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Orbit & Oculoplasty",
+        "description": "Oculoplasty is the art and science of plastic surgery around the eye. The eyeball is a delicate structure, protected from harm by eyelids in front and the bony cup (socket) behind. Behind the eyeball run the nerves, arteries and muscles, which carry messages to the brain, move the eyeball, and provide nutrition to the eye. Oculoplasty deals with all these structures surrounding the eyeball.",
+        "img": "./Images/4. Orbit & Oculoplasty.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Lasik",
+        "description": "If you’re looking into LASIK vision correction, it’s probably because you don’t want to wear glasses or contact lenses any more. Sure, glasses can be a fashion statement, but they can also just get in the way. They’re a hassle during your favorite activities, and they block your beautiful eyes from the world. If they’re not getting smudged, they’re getting knocked off. Contacts show your eyes off, but they’ve got their own set of problems. All the supplies you have to buy, the constant cleaning procedures and checkups, lost lenses and allergies. Now, imagine life without contacts and glasses- the simplicity, the freedom to do what you want without worry. That’s what LASIK surgery can give you.",
+        "img": "./Images/5. Lasik.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Neuro Ophthalmology",
+        "description": "Diseases of the Optic Nerve such as optic neuritis, ischemic optic neuropathy, toxic and nutritional optic neuropathies, hereditary optic neuropathies, idiopathic intracranial hypertension, optic nerve and sheath tumours.",
+        "img": "./Images/6. neuro ophthalmology.jpg"
+    }
+]
